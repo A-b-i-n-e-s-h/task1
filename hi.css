@@ -1,0 +1,68 @@
+nav {
+  background-color: black;
+  color: white;
+  padding: 50px;
+  text-align: center;
+}
+body {
+  background-image: url(coffee-beans-cup-4k.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1,
+ul,
+li {
+  display: inline;
+}
+ul {
+  color: gray;
+  cursor: pointer;
+}
+li:hover {
+  color: antiquewhite;
+}
+input {
+  width: 50%;
+  height: 50px;
+  font-size: large;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 60px;
+}
+.hi2 {
+  text-align: center;
+}
+.hello {
+  border-width: 10px;
+  border-color: transparent;
+  border-style: solid;
+  color: whitesmoke;
+  display: inline-block;
+  margin-top: 30px;
+  width: 350px;
+  background-color: transparent;
+  font-size: larger;
+ 
+}
+.hello:hover {
+  background-color: black;
+  color: rgb(90, 38, 38);
+}
+.hi3 {
+  color: rgb(168, 96, 96);
+  cursor: pointer;
+  text-align: center;
+  
+}
+.hi4 {
+  text-align: center;
+  font-size: larger;
+}
+.hi5 {
+  color: rgb(168, 96, 96);
+  text-align: center;
+  margin: 0;
+  font-size: larger;
+}
+
+
